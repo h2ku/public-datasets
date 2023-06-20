@@ -1,12 +1,14 @@
 ## (mostly public) dataset archives
 Mostly public datasets. Use at your own risk!
 
-* [(!) AwesomeData public datasets (658+ on 2019.11)](github.com/awesomedata): prev.ly github.com/caesar0301/awesome-public-datasets#natural-language
+* [(!) AwesomeData public datasets (updated 9 hours ago)](github.com/awesomedata/awesome-public-datasets): prev.ly github.com/caesar0301/awesome-public-datasets
+  * [data challenges datasets](github.com/awesomedata/awesome-public-datasets#datachallenges)
 * [(!) Wikipedia, List of datasets for machine learning research](en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 * [UCI Machine Learning Repository](archive.ics.uci.edu/ml/index.php): UC Irvine Machine Learning Repository. 497 data sets@200507
 * [OpenML.org](www.openml.org/search?type=data)
 * [data.world ((?)public data)](data.world/datasets/open-data)
 * (check licenses) [Kaggle datasets (23,298 on 2019.11)](www.kaggle.com/datasets)
+  * [(50 largest) competition datasets on Kaggle](https://www.kaggle.com/code/benhamner/competitions-with-largest-datasets)
 * [AWS, Registry of Open Data on (119 on 2019.11)](registry.opendata.aws/): prev.ly aws.amazon.com/datasets/
 * [Google AI datasets (64 on 2019.11)](ai.google/tools/datasets/)
 * [Stanford NLP group](www-nlp.stanford.edu/links/statnlp.html): mainly annotated corpora and TreeBanks or actual NLP tools
